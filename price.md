@@ -1,1 +1,1 @@
-VRversion 定價為 599 美元
+VRversion 定價為 499 美元
