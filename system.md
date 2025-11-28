@@ -1,1 +1,1 @@
-支持windows7及更新版本
+支持windows10及更新版本
